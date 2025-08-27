@@ -1,0 +1,45 @@
+[
+    {
+            "produtos":{
+                "prod01":"Notebook dell",
+                 "prod02":"Tablet Samsung",
+                 "prod03":" Smartphone Iphone",
+                 "prod04":" CPU",
+                 "prod05":" Telas"
+
+                }
+
+    },
+    {                   "vendedor":{
+                        "vend01":"Bras",
+                        "vend02":"Cuba",
+                        "vend03":"Shibata da silva",
+                        "vend04":"Poa",
+                        "vend05":"Suzano"}
+
+    },
+      {   "Preco":{                
+                    "preco01":"R$ 2550.00",
+                    "preco02":"R$ 3199.00",
+                    "preco03":"R$ 1999.00",
+                    "preco04":"R$ 2199.00",
+                    "preco05":"R$ 999.00"}
+
+    },
+    {                       "ImagemProdutos":{
+                            "img001":"<img src='img/not.jpg'        width='300px'>",
+                            "img002":"<img src='img/celular.jpg'     width='300px'>",
+                            "img003":"<img src='img/tablete.jpg'    width='300px'>",
+                            "img004":"<img src='img/CPU.jpg'       width='300px'>",
+                            "img005":"<img src='img/MONI.jpg'     width='300px'>"
+                        }
+     },
+     {       "cliente":{                
+                    "comp001":"Compra realizada por Fulano",
+                    "comp02":"Compra realizada por Beltrano",
+                    "comp03":"Compra realizada por Sicrano",
+                    "comp04":"Compra realizada por Deltrano",
+                    "comp05":"Compra realizada por Feliciano"}
+                
+}
+]

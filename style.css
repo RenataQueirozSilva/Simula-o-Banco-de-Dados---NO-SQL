@@ -1,0 +1,64 @@
+h1{color:rgba(16, 203, 203, 0.812);font-family:Arial, Helvetica, sans-serif;
+    font-size:60px;}
+
+h2{color:rgb(240, 3, 126);font-family:Arial, Helvetica, sans-serif;
+    font-size:40px;}  
+
+#produto{color:rgb(253, 8, 245);font-family:Arial, Helvetica, sans-serif;
+    font-size:25px;}
+#produto2{color:rgb(253, 8, 245);font-family:Arial, Helvetica, sans-serif;
+    font-size:25px;}
+#produto3{color:rgb(253, 8, 245);font-family:Arial, Helvetica, sans-serif;
+    font-size:25px;}
+#produto4{color:rgb(253, 8, 245);font-family:Arial, Helvetica, sans-serif;
+    font-size:25px;}
+#produto5{color:rgb(253, 8, 245);font-family:Arial, Helvetica, sans-serif;
+    font-size:25px;}
+#preco{color:red;font-family:Arial, Helvetica, sans-serif;
+    font-size:25px;}
+#preco2{color:red;font-family:Arial, Helvetica, sans-serif;
+    font-size:25px;}
+#preco3{color:red;font-family:Arial, Helvetica, sans-serif;
+    font-size:25px;}
+#preco4{color:red;font-family:Arial, Helvetica, sans-serif;
+    font-size:25px;}
+#preco5{color:red;font-family:Arial, Helvetica, sans-serif;
+    font-size:25px;}
+
+#vendedor{color:rgb(34, 12, 234);font-family:Arial, Helvetica, sans-serif;
+    font-size:25px;}
+#vendedor2{color:rgb(34, 12, 234);font-family:Arial, Helvetica, sans-serif;
+    font-size:25px;}
+#vendedor3{color:rgb(34, 12, 234);font-family:Arial, Helvetica, sans-serif;
+    font-size:25px;}
+#vendedor4{color:rgb(34, 12, 234);font-family:Arial, Helvetica, sans-serif;
+    font-size:22px;}
+#vendedor5{color:rgb(34, 12, 234);font-family:Arial, Helvetica, sans-serif;
+    font-size:25px;}
+
+    #cliente{color:rgb(14, 118, 61);font-family:Arial, Helvetica, sans-serif;
+    font-size:25px;}
+#cliente2{color:rgb(14, 118, 61);font-family:Arial, Helvetica, sans-serif;
+    font-size:25px;}
+#cliente3{color:rgb(14, 118, 61);font-family:Arial, Helvetica, sans-serif;
+    font-size:25px;}
+#cliente4{color:rgb(14, 118, 61);font-family:Arial, Helvetica, sans-serif;
+    font-size:25px;}
+#cliente5{color:rgb(14, 118, 61);font-family:Arial, Helvetica, sans-serif;
+    font-size:25px;}
+
+
+
+    
+
+.botao{
+    background-color: rgb(240, 3, 126);
+    color: rgb(16, 232, 12);
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+.botao:hover{
+    background-color: rgba(41, 245, 14, 0.8);
+}
